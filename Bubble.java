@@ -1,5 +1,5 @@
 class Bubble {
-    public static void main(String[] args){
+    public static void main(String[] args) {
           int[] arr = {1,8,5,2,3,4,6,7,9,10}; 
         int i ,j, temp;
         for (i = 0 ; i < arr.length ; i++){
